@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(250,255,245);
+    display: flex;
+    height: 100lvh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+  }
+  canvas {
+    display: block;
+    aspect-ratio: 6/8;
+  }
+  
